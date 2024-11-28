@@ -5,3 +5,8 @@ dist
 .next
 
 .DS_Store
+
+
+!apps/frontend/
+
+!apps/backend/
